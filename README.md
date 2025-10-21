@@ -36,7 +36,7 @@ A reinforcement learning model that uses **neural networks** to estimate Q-value
 
 ---
 
-## 📈 Key Achievements
+## Key Achievements
 - Reduced vehicle waiting time and queue length by over **70%** compared to random control.  
 - Implemented **multi-agent DQN training** with independent experience buffers.  
 - Designed a realistic **SUMO-based environment** for RL experimentation.  
