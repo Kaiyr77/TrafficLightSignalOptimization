@@ -16,7 +16,7 @@ To develop an AI-based traffic light control system that adapts to real-time tra
 A non-learning agent that switches lights randomly — used as a benchmark for comparison.  
 - **Result:** 120 cars queued at peak.
 
-![Random Agent](assets/Random-Actions.gif)
+![Random Agent](assets/Random%20Actions.gif)
 
 ### Deep Q-Learning Agent
 A reinforcement learning model that uses **neural networks** to estimate Q-values and learn optimal switching policies.  
